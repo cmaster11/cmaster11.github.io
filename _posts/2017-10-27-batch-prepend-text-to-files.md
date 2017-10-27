@@ -1,5 +1,5 @@
 ---
-title:  "Batch prepend text to files"
+title: Batch prepend text to files
 ---
 
 Easy way to prepend some text to a group of files in a directory and subdirectories:
