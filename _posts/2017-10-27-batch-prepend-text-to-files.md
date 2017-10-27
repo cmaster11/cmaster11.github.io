@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Batch prepend text to files"
 ---
 
